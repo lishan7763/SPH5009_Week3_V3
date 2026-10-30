@@ -12,5 +12,4 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
-# Exercise 3.1: Reproducible workflow
-# This script imports data, prepares it, and produces summaries, analyses and plots.
+#Reproducibility check: run this script from a fresh R session.
